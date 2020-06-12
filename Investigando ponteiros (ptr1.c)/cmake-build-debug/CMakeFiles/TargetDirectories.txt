@@ -1,0 +1,3 @@
+C:/Users/vilso/Desktop/MTP/Pratica 4/Investigando ponteiros (ptr1.c)/cmake-build-debug/CMakeFiles/Investigando_ponteiros__ptr1_c_.dir
+C:/Users/vilso/Desktop/MTP/Pratica 4/Investigando ponteiros (ptr1.c)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vilso/Desktop/MTP/Pratica 4/Investigando ponteiros (ptr1.c)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

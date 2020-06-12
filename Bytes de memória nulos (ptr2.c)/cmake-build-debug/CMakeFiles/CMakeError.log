@@ -1,0 +1,126 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de memória nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe cmTC_1b071/fast 
+C:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f CMakeFiles\cmTC_1b071.dir\build.make CMakeFiles/cmTC_1b071.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de mem¾ria nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1b071.dir/testCCompiler.c.obj
+C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe    -o CMakeFiles\cmTC_1b071.dir\testCCompiler.c.obj   -c "C:\Users\vilso\Desktop\MTP\Pratica 4\Bytes de mem├│ria nulos (ptr2.c)\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\vilso\Desktop\MTP\Pratica 4\Bytes de mem+ªria nulos (ptr2.c)\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_1b071.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_1b071.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_1b071.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de mem¾ria nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_1b071/fast' failed
+mingw32-make.exe: *** [cmTC_1b071/fast] Error 2
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de memória nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe cmTC_8a58f/fast 
+C:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f CMakeFiles\cmTC_8a58f.dir\build.make CMakeFiles/cmTC_8a58f.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de mem¾ria nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8a58f.dir/testCCompiler.c.obj
+C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe    -o CMakeFiles\cmTC_8a58f.dir\testCCompiler.c.obj   -c "C:\Users\vilso\Desktop\MTP\Pratica 4\Bytes de mem├│ria nulos (ptr2.c)\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\vilso\Desktop\MTP\Pratica 4\Bytes de mem+ªria nulos (ptr2.c)\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_8a58f.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_8a58f.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_8a58f.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de mem¾ria nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_8a58f/fast' failed
+mingw32-make.exe: *** [cmTC_8a58f/fast] Error 2
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de memória nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe cmTC_e5e34/fast 
+C:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f CMakeFiles\cmTC_e5e34.dir\build.make CMakeFiles/cmTC_e5e34.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de mem¾ria nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e5e34.dir/testCCompiler.c.obj
+C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe    -o CMakeFiles\cmTC_e5e34.dir\testCCompiler.c.obj   -c "C:\Users\vilso\Desktop\MTP\Pratica 4\Bytes de mem├│ria nulos (ptr2.c)\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\vilso\Desktop\MTP\Pratica 4\Bytes de mem+ªria nulos (ptr2.c)\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_e5e34.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_e5e34.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_e5e34.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de mem¾ria nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_e5e34/fast' failed
+mingw32-make.exe: *** [cmTC_e5e34/fast] Error 2
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de memória nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe cmTC_0d4f3/fast 
+C:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f CMakeFiles\cmTC_0d4f3.dir\build.make CMakeFiles/cmTC_0d4f3.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de mem¾ria nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0d4f3.dir/testCCompiler.c.obj
+C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe    -o CMakeFiles\cmTC_0d4f3.dir\testCCompiler.c.obj   -c "C:\Users\vilso\Desktop\MTP\Pratica 4\Bytes de mem├│ria nulos (ptr2.c)\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\vilso\Desktop\MTP\Pratica 4\Bytes de mem+ªria nulos (ptr2.c)\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_0d4f3.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_0d4f3.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_0d4f3.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de mem¾ria nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_0d4f3/fast' failed
+mingw32-make.exe: *** [cmTC_0d4f3/fast] Error 2
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de memória nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe cmTC_f018c/fast 
+C:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f CMakeFiles\cmTC_f018c.dir\build.make CMakeFiles/cmTC_f018c.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de mem¾ria nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f018c.dir/testCCompiler.c.obj
+C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe    -o CMakeFiles\cmTC_f018c.dir\testCCompiler.c.obj   -c "C:\Users\vilso\Desktop\MTP\Pratica 4\Bytes de mem├│ria nulos (ptr2.c)\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\vilso\Desktop\MTP\Pratica 4\Bytes de mem+ªria nulos (ptr2.c)\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_f018c.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_f018c.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_f018c.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de mem¾ria nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_f018c/fast' failed
+mingw32-make.exe: *** [cmTC_f018c/fast] Error 2
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de memória nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe cmTC_c01e6/fast 
+C:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f CMakeFiles\cmTC_c01e6.dir\build.make CMakeFiles/cmTC_c01e6.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de mem¾ria nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c01e6.dir/testCCompiler.c.obj
+C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe    -o CMakeFiles\cmTC_c01e6.dir\testCCompiler.c.obj   -c "C:\Users\vilso\Desktop\MTP\Pratica 4\Bytes de mem├│ria nulos (ptr2.c)\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\vilso\Desktop\MTP\Pratica 4\Bytes de mem+ªria nulos (ptr2.c)\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_c01e6.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_c01e6.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_c01e6.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de mem¾ria nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_c01e6/fast' failed
+mingw32-make.exe: *** [cmTC_c01e6/fast] Error 2
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de memória nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe cmTC_266c3/fast 
+C:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f CMakeFiles\cmTC_266c3.dir\build.make CMakeFiles/cmTC_266c3.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de mem¾ria nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_266c3.dir/testCCompiler.c.obj
+C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe    -o CMakeFiles\cmTC_266c3.dir\testCCompiler.c.obj   -c "C:\Users\vilso\Desktop\MTP\Pratica 4\Bytes de mem├│ria nulos (ptr2.c)\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\vilso\Desktop\MTP\Pratica 4\Bytes de mem+ªria nulos (ptr2.c)\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_266c3.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_266c3.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_266c3.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/vilso/Desktop/MTP/Pratica 4/Bytes de mem¾ria nulos (ptr2.c)/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_266c3/fast' failed
+mingw32-make.exe: *** [cmTC_266c3/fast] Error 2
+
+
