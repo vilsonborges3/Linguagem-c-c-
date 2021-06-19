@@ -1,0 +1,93 @@
+#include <Servo.h>
+
+#include <IRremote.h>
+IRrecv sensorIR (12);
+decode_results   comando;
+
+Servo servo1;
+Servo servo2;
+Servo servo3;
+// C++ code
+//
+int angulo1=0;
+int angulo2=0;
+int angulo3=0;
+void setup()
+{
+  Serial.begin(115200);
+
+  sensorIR.enableIRIn();
+  servo1.attach(7);
+  servo2.attach(6);
+  servo3.attach(5);
+}
+
+void loop()
+{
+  servo1.write(angulo1);
+  servo2.write(angulo2);
+  servo3.write(angulo3);
+  if (sensorIR.decode(&comando)) {
+
+    switch (comando.value) {
+      case (0xFDA05F): { //play
+        angulo1 = 0;
+        angulo2 = 0;
+        angulo3 = 0;
+        Serial.println("Play: posicao 0");
+          break;
+      }  
+      case(0xFD807F): { //VOL+	
+        if(angulo2 <180){
+     		angulo2 = angulo2 +10;
+        }
+          
+        Serial.println("Vol+: 0 a 180 eixo y");
+        break;
+        
+      }  
+      case (0xFD906f): { //vol-
+        	
+        if(angulo2 >0){
+     		angulo2 = angulo2 -10;
+        }
+    	
+        Serial.println("Vol-: 0 a 180 eixo y");
+        break;
+      }  
+      case (0xFD609F): { //FORWARD
+       if(angulo1 <180){
+     		angulo1 = angulo1 +10;
+        }
+        Serial.println("forward: 0 a 180 eixo x");
+        servo1.write(angulo1);
+        break;
+      } 
+      case (0xFD20DF): { //REWARD
+       if(angulo1 > 0){
+     		angulo1 = angulo1 -10;
+        }
+        Serial.println("reward: 0 a 180 eixo x");
+
+        break;
+      }  
+      case (0xFD50AF): { //CIMA
+      if(angulo3 <90){
+     		angulo3 = angulo3 +10;
+        }
+        Serial.println("cima: 0 a 90 eixo z");
+
+        break;;
+      }  
+      case (0xFD10EF): { //BAIXO
+        if(angulo3 >0){
+     		angulo3 = angulo3 -10;
+        }
+        Serial.println("baixo: 0 a 90 eixo z");
+        break;;
+      }  
+    }    
+
+    sensorIR.resume();// enterra agauarda comando
+  }
+}
